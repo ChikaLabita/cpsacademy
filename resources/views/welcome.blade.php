@@ -12,8 +12,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/fontawesome.min.css" />  
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" />  
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/fontawesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" />
     <link href="css/styles.css" rel="stylesheet" />
 </head>
 
@@ -74,7 +75,8 @@
                                 <div class="row gx-0">
                                     <div class="p-4 p-md-5">
                                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Course</div>
-                                        <div class="h2 fw-bolder">Personal <i class="fa fa-user ms-auto" aria-hidden="true"></i></div>
+                                        <div class="h2 fw-bolder">Personal <i class="fa fa-user ms-auto"
+                                                aria-hidden="true"></i></div>
                                         <p>2 - 5 Peserta Pelatihan/Kursus + 1 Instruktur</p>
                                         <a class="stretched-link text-decoration-none" href="#!">
                                             Register Now
@@ -106,62 +108,69 @@
             </div>
     </section>
 
-     <!-- About Us-->
-     <section class="py-5 bg-light" id="scroll-target">
-                <div class="container px-5 my-5">
-                <div class="text-center mb-5" id="#OurCourse">
+    <!-- About Us-->
+    <section class="py-5 bg-light" id="scroll-target">
+        <div class="container px-5 my-5">
+            <div class="text-center mb-5" id="#OurCourse">
                 <h1 class="fw-bolder">About Us</h1>
                 <p class="lead fw-normal text-muted mb-0">hm</p>
             </div>
-                    <div class="row gx-5 align-items-center">
-                        <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
-                        <div class="col-lg-6">
-                            <h2 class="fw-bolder">Our founding</h2>
-                            <p class="lead fw-normal text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto est, ut esse a labore aliquam beatae expedita. Blanditiis impedit numquam libero molestiae et fugit cupiditate, quibusdam expedita, maiores eaque quisquam.</p>
-                        </div>
-                    </div>
+            <div class="row gx-5 align-items-center">
+                <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0"
+                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+                <div class="col-lg-6">
+                    <h2 class="fw-bolder">Our founding</h2>
+                    <p class="lead fw-normal text-muted mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Iusto est, ut esse a labore aliquam beatae expedita. Blanditiis impedit numquam libero molestiae
+                        et fugit cupiditate, quibusdam expedita, maiores eaque quisquam.</p>
                 </div>
-            </section>
+            </div>
+        </div>
+    </section>
 
-            <!-- Team members section-->
-            <section class="py-5 bg-light">
-                <div class="container px-5 my-5">
+    <!-- Team members section-->
+    <section class="py-5 bg-light">
+        <div class="container px-5 my-5">
+            <div class="text-center">
+                <h2 class="fw-bolder">Our Intructur</h2>
+                <p class="lead fw-normal text-muted mb-5">Dedicated to quality and your success</p>
+            </div>
+            <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
+                <div class="col mb-5 mb-5 mb-xl-0">
                     <div class="text-center">
-                        <h2 class="fw-bolder">Our Intructur</h2>
-                        <p class="lead fw-normal text-muted mb-5">Dedicated to quality and your success</p>
-                    </div>
-                    <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
-                        <div class="col mb-5 mb-5 mb-xl-0">
-                            <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                                <h5 class="fw-bolder">Ibbie Eckart</h5>
-                                <div class="fst-italic text-muted">Founder &amp; CEO</div>
-                            </div>
-                        </div>
-                        <div class="col mb-5 mb-5 mb-xl-0">
-                            <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                                <h5 class="fw-bolder">Arden Vasek</h5>
-                                <div class="fst-italic text-muted">CFO</div>
-                            </div>
-                        </div>
-                        <div class="col mb-5 mb-5 mb-sm-0">
-                            <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                                <h5 class="fw-bolder">Toribio Nerthus</h5>
-                                <div class="fst-italic text-muted">Operations Manager</div>
-                            </div>
-                        </div>
-                        <div class="col mb-5">
-                            <div class="text-center">
-                                <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                                <h5 class="fw-bolder">Malvina Cilla</h5>
-                                <div class="fst-italic text-muted">CTO</div>
-                            </div>
-                        </div>
+                        <img class="img-fluid rounded-circle mb-4 px-4"
+                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Ibbie Eckart</h5>
+                        <div class="fst-italic text-muted">Founder &amp; CEO</div>
                     </div>
                 </div>
-            </section>
+                <div class="col mb-5 mb-5 mb-xl-0">
+                    <div class="text-center">
+                        <img class="img-fluid rounded-circle mb-4 px-4"
+                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Arden Vasek</h5>
+                        <div class="fst-italic text-muted">CFO</div>
+                    </div>
+                </div>
+                <div class="col mb-5 mb-5 mb-sm-0">
+                    <div class="text-center">
+                        <img class="img-fluid rounded-circle mb-4 px-4"
+                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Toribio Nerthus</h5>
+                        <div class="fst-italic text-muted">Operations Manager</div>
+                    </div>
+                </div>
+                <div class="col mb-5">
+                    <div class="text-center">
+                        <img class="img-fluid rounded-circle mb-4 px-4"
+                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Malvina Cilla</h5>
+                        <div class="fst-italic text-muted">CTO</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- Footer-->
     <footer class="py-4 mt-auto" style="background-color: #173F5F;">
         <div class="container px-5">
