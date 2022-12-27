@@ -52,7 +52,7 @@
                             Speakers. It's not that you can't do it. But you've never tried. So...</p>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#our-course">Register Now</a>
-                            <a class="btn btn-outline-light btn-lg px-4" href="#!">Read More</a>
+                            <a class="btn btn-outline-light btn-lg px-4" href="#!">Login</a>
                         </div>
                     </div>
                 </div>
